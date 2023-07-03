@@ -1,4 +1,6 @@
-/// <reference types="cypress" />
+/// <reference types="cypress"/>
+
+const { faker } = require('@faker-js/faker');
 
 context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
     /*  Como cliente 
@@ -11,11 +13,17 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
 
     beforeEach(() => {
         cy.visit('/')
+    
     });
 
     it('Deve fazer um pedido na loja Ebac Shop de ponta a ponta', () => {
-        //TODO 
+    
     });
 
+ 
+        
 
-})
+
+
+    })
+

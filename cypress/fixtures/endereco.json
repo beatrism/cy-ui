@@ -1,0 +1,13 @@
+{
+    "nome": "Beatriz", 
+    "sobrenome": "Sobrinho", 
+    "empresa": "EBAC", 
+    "pais": "Brasil", 
+    "endereco": "St Pitangueiras", 
+    "numero": "10",
+    "cidade": "Maracai",
+    "estado": "São Paulo",
+    "cep": "19840-000",
+    "telefone": "1010-1010",
+    "email": "aluno_ebac@teste.com"
+  }
