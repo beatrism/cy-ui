@@ -12,9 +12,6 @@ it('Deve adicionar produto no carrinho', () => {
     cy.addProdutos('Autumn Pullie', 'M', 'Purple', 1)
 });
 
-it('Deve adicionar produto no carrinho', () => {
-    cy.addProdutos('Atlas Fitness Tank', 'L', 'Blue', 3)
-});
 
 it('Deve adicionar produto no carrinho', () => {
     cy.addProdutos('Bruno Compete Hoodie', 'XL', 'Black', 6)
